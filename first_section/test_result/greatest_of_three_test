@@ -1,0 +1,17 @@
+-------------------------------
+Running test with input 1|5|7
+7
+-------------------------------
+Running test with input 6|3|8
+8
+-------------------------------
+Running test with input 9|4|5
+9
+-------------------------------
+Running test with input 2|10|6
+10
+-------------------------------
+Running test with input 45|0|42
+45
+-------------------------------
+Tests passed!

@@ -1,0 +1,44 @@
+-------------------------------
+Running test with input 0
+0
+-------------------------------
+Running test with input 1
+1
+-------------------------------
+Running test with input 2
+4
+-------------------------------
+Running test with input 3
+9
+-------------------------------
+Running test with input 4
+16
+-------------------------------
+Running test with input 5
+25
+-------------------------------
+Running test with input 10
+100
+-------------------------------
+Running test with input 11
+121
+-------------------------------
+Running test with input 20
+400
+-------------------------------
+Running test with input 41
+1681
+-------------------------------
+Running test with input 50
+2500
+-------------------------------
+Running test with input 51
+2601
+-------------------------------
+Running test with input 99
+9801
+-------------------------------
+Running test with input 100
+10000
+-------------------------------
+Tests passed!

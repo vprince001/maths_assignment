@@ -1,0 +1,17 @@
+-------------------------------
+Running test with input 0
+0
+-------------------------------
+Running test with input 1
+1
+-------------------------------
+Running test with input 5
+120
+-------------------------------
+Running test with input 8
+40320
+-------------------------------
+Running test with input 10
+3628800
+-------------------------------
+Tests passed!

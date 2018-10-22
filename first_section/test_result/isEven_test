@@ -1,0 +1,56 @@
+-------------------------------
+Running test with input 0
+Even
+-------------------------------
+Running test with input 1
+Not Even
+-------------------------------
+Running test with input 2
+Even
+-------------------------------
+Running test with input 3
+Not Even
+-------------------------------
+Running test with input 4
+Even
+-------------------------------
+Running test with input 5
+Not Even
+-------------------------------
+Running test with input 6
+Even
+-------------------------------
+Running test with input 7
+Not Even
+-------------------------------
+Running test with input 8
+Even
+-------------------------------
+Running test with input 9
+Not Even
+-------------------------------
+Running test with input 10
+Even
+-------------------------------
+Running test with input 11
+Not Even
+-------------------------------
+Running test with input 20
+Even
+-------------------------------
+Running test with input 41
+Not Even
+-------------------------------
+Running test with input 50
+Even
+-------------------------------
+Running test with input 51
+Not Even
+-------------------------------
+Running test with input 99
+Not Even
+-------------------------------
+Running test with input 100
+Even
+-------------------------------
+Tests passed!

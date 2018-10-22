@@ -1,0 +1,32 @@
+-------------------------------
+Running test with input 0
+0
+-------------------------------
+Running test with input 1
+0
+-------------------------------
+Running test with input 2
+0,2
+-------------------------------
+Running test with input 3
+0,2
+-------------------------------
+Running test with input 4
+0,2,4
+-------------------------------
+Running test with input 5
+0,2,4
+-------------------------------
+Running test with input 6
+0,2,4,6
+-------------------------------
+Running test with input 7
+0,2,4,6
+-------------------------------
+Running test with input 8
+0,2,4,6,8
+-------------------------------
+Running test with input 10
+0,2,4,6,8,10
+-------------------------------
+Tests passed!

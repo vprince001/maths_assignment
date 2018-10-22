@@ -1,0 +1,56 @@
+-------------------------------
+Running test with input 0
+Not Odd
+-------------------------------
+Running test with input 1
+Odd
+-------------------------------
+Running test with input 2
+Not Odd
+-------------------------------
+Running test with input 3
+Odd
+-------------------------------
+Running test with input 4
+Not Odd
+-------------------------------
+Running test with input 5
+Odd
+-------------------------------
+Running test with input 6
+Not Odd
+-------------------------------
+Running test with input 7
+Odd
+-------------------------------
+Running test with input 8
+Not Odd
+-------------------------------
+Running test with input 9
+Odd
+-------------------------------
+Running test with input 10
+Not Odd
+-------------------------------
+Running test with input 11
+Odd
+-------------------------------
+Running test with input 20
+Not Odd
+-------------------------------
+Running test with input 41
+Odd
+-------------------------------
+Running test with input 50
+Not Odd
+-------------------------------
+Running test with input 51
+Odd
+-------------------------------
+Running test with input 99
+Odd
+-------------------------------
+Running test with input 100
+Not Odd
+-------------------------------
+Tests passed!

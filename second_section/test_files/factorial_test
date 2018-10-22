@@ -1,0 +1,23 @@
+-------------------------------
+Running test with input 0
+0
+-------------------------------
+Running test with input 1
+1
+-------------------------------
+Running test with input 2
+2
+-------------------------------
+Running test with input 3
+6
+-------------------------------
+Running test with input 4
+24
+-------------------------------
+Running test with input 5
+120
+-------------------------------
+Running test with input 10
+3628800
+-------------------------------
+Tests passed!

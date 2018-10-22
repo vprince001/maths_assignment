@@ -1,0 +1,32 @@
+-------------------------------
+Running test with input 2|3
+1
+-------------------------------
+Running test with input 2|4
+2
+-------------------------------
+Running test with input 3|12
+3
+-------------------------------
+Running test with input 5|15
+5
+-------------------------------
+Running test with input 6|3
+3
+-------------------------------
+Running test with input 15|45
+15
+-------------------------------
+Running test with input 20|240
+20
+-------------------------------
+Running test with input 60|12
+12
+-------------------------------
+Running test with input 22|99
+11
+-------------------------------
+Running test with input 864|76
+4
+-------------------------------
+Tests passed!
